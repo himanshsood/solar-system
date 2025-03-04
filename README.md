@@ -1,6 +1,7 @@
 # SOLAR SYSTEM
 
-![Project Snapshot](client/public/screenshots/Screenshot (112).jpg)
+![Project Snapshot]([https://raw.githubusercontent.com/yourusername/yourrepo/main/client/public/screenshots/snapshot.png](https://github.com/himanshsood/solar-system/blob/main/client/public/Screenshot%20(112).png))
+
 
 ![Project Snapshot](client/public/screenshots/Screenshot (115).jpg)
 
