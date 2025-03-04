@@ -1,6 +1,11 @@
 # SOLAR SYSTEM
 
+# SNAPSHOTS : 
+
+![Project Snapshot](https://raw.githubusercontent.com/himanshsood/solar-system/main/client/public/Screenshot%20(112).png)
 ![Project Snapshot](https://raw.githubusercontent.com/himanshsood/solar-system/main/client/public/Screenshot%20(115).png)
+
+![Project Snapshot](https://raw.githubusercontent.com/himanshsood/solar-system/main/client/public/Screenshot%20(116).png)
 
 
 
