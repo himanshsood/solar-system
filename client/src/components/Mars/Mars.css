@@ -1,0 +1,30 @@
+/* styles.css */
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background-color: black;
+    color: white;
+    font-family: Arial, sans-serif;
+  }
+  
+  .app-container {
+    display: flex;
+    height: 100vh;
+  }
+  
+  .canvas-container {
+    width: 70vw;
+    height: 100vh;
+  }
+  
+  .controls-container {
+    width: 30vw;
+    padding: 20px;
+    background-color: black;
+  }
+  
+  h2, p {
+    color: white;
+  }
+  
