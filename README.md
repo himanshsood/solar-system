@@ -9,27 +9,14 @@
 
 
 
-
-![Project Snapshot](client/public/screenshots/Screenshot (115).jpg)
-
-![Project Snapshot](client/public/screenshots/Screenshot (116).jpg)
-
-
-## Overview
-A brief description of your project. Explain what it does and its main features.
-
-## Features
-- Feature 1
-- Feature 2
-- Feature 3
-
 ## Installation
 ```sh
 # Clone the repository
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/himanshsood/solar-system.git
 
 # Navigate to the project directory
-cd your-repo
+cd client
+cd backend
 
 # Install dependencies
 npm install
@@ -38,17 +25,7 @@ npm install
 ## Usage
 ```sh
 # Start the project
-npm start
+npm start || nodemon index.js
 ```
 
-## Technologies Used
-- Tech 1
-- Tech 2
-- Tech 3
-
-## Contributing
-Feel free to contribute! Open an issue or submit a pull request.
-
-## License
-This project is licensed under the MIT License.
 
