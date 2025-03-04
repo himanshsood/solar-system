@@ -1,7 +1,11 @@
-# Project Name
+# SOLAR SYSTEM
 
-![Project Snapshot](C:\Users\HP\Pictures\Screenshots)
-![Project Snapshot](path/to/snapshot2.png)
+![Project Snapshot](client/public/screenshots/Screenshot (112).jpg)
+
+![Project Snapshot](client/public/screenshots/Screenshot (115).jpg)
+
+![Project Snapshot](client/public/screenshots/Screenshot (116).jpg)
+
 
 ## Overview
 A brief description of your project. Explain what it does and its main features.
